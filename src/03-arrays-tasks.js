@@ -438,7 +438,7 @@ function toStringList(arr) {
  *      { country: 'Russia',  city: 'Saint Petersburg' }
  *    ]
  */
-function sortCitiesArray(/* arr */) { //TODO
+function sortCitiesArray(/* arr */) { // TODO
   throw new Error('Not implemented');
 }
 
@@ -460,7 +460,7 @@ function sortCitiesArray(/* arr */) { //TODO
  *           [0,0,0,1,0],
  *           [0,0,0,0,1]]
  */
-function getIdentityMatrix(/* n */) { //TODO
+function getIdentityMatrix(/* n */) { // TODO
   throw new Error('Not implemented');
 }
 
